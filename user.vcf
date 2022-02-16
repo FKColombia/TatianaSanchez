@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Romero;John Alejandro;;;
-FN: John Alejandro Romero Cubillos 
+N:Sánchez;Tatiana;;;
+FN: Tatiana Sánchez 
 ORG:Fresenius Kabi Colombia;
-TITLE:Analista de ventas y marketing
-EMAIL;type=INTERNET;type=WORK;type=pref:john.romero-cubillos@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+57 318 7234942
+TITLE:Entrenadora Clínica
+EMAIL;type=INTERNET;type=WORK;type=pref:tatiana.sanchez@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+57 3185166369
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co/
